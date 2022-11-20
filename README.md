@@ -14,15 +14,15 @@
 <h3 align="center"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-html-mobile-app-development-flaticons-lineal-color-flat-icons.png"/> </h3>
 
 - Estrutura do HTML
-- Importação de arquivos como imagens, scripts ou folhas de estilo
-- Editar html dinamicamente 
-- Criar script dentro do HTML quando necessário
+- Importação de arquivos como imagens, scripts e/ou folhas de estilo
+- Editar o HTML dinamicamente 
+- Criar scripts dentro do HTML quando necessário
 
 
 <h3 align="center"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/null/external-css-file-file-type-justicon-lineal-color-justicon.png"/> </h3>
 
-- Trocar imagens no arquivo CSS dinamicamente pelo Js
-- Editar o arquivo CSS dinamicamente pelo Js 
+- Trocar imagens no arquivo CSS dinamicamente 
+- Editar o arquivo CSS dinamicamente  
 
 <h3 align="center"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-javascript-mobile-app-development-flaticons-lineal-color-flat-icons.png"/> </h3> 
 
