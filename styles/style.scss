@@ -1,0 +1,102 @@
+@mixin display_direction($display, $direction){
+    display: $display;
+    flex-direction: $direction;
+} 
+
+@mixin height_widht($height, $width){
+    height: $height;
+    width: $width;
+}
+
+body{
+    background: rgb(0, 0, 0);
+}
+
+.container{  
+    @include height_widht(100%, 100%);
+    @include display_direction(flex, column);
+    color: white;     
+    align-items: center;
+}
+
+.app{
+    border: 2px solid rgba(215, 215, 215, 0.412);
+    border-radius: 10px;
+
+    padding: 10px 50px 50px;
+    margin-top: 5px;
+
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba(32, 40, 147, 0.45);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 10px 0 20px 0;
+}
+
+.app-image{
+    @include display_direction(flex, column);
+    width: 500px;
+}
+
+#display-image{
+    @include height_widht(500px, 100%);
+
+    /* background-image: url("../pictures/chloe.jpg"); */
+    background-position: center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+
+
+.app-photo-picker{
+    @include display_direction(flex, column);
+    @include height_widht(100px, 100%);
+
+}
+
+textarea {
+    @include height_widht(80px, 100%);
+
+
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 20px;
+    outline: none;
+    text-align: center;
+    
+    resize: vertical;
+    border: none;
+    padding: 10px;
+
+    overflow: hidden;
+}
+
+#btn-download{
+    width: 100%;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px;
+    background-color: orange;
+}
+
+.text-box{
+    background-color: black;
+    color: white;
+}
+
+#meme-list{
+    width: 100%;
+    font-size: large;
+    font-family: sans-serif;
+    color: black;
+}
