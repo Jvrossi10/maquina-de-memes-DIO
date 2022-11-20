@@ -4,6 +4,11 @@
 
 - Além dos códigos desenvolvidos nas lives, eu tentei usar Sass para diminuir um pouco a quantidade de CSS.
 
+<h3 align="center">Objetivo</h3> 
+
+- O objetvo do site é criar um modelo pronto para gerar memes
+- No site há um seletor onde você pode selecionar a imagem que mais desejar para a criação do seu meme. Caso prefira, há também a opção de fazer upload de alguma imagem que você já tenha em seu dispositivo
+
 <h2 align="center" style = "text-decoration:underline;">Conteúdos abordados em aula</h2>
 
 <h3 align="center"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-html-mobile-app-development-flaticons-lineal-color-flat-icons.png"/> </h3>
