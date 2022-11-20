@@ -47,5 +47,5 @@
 
 <h1> </h1>
 
-<img src="C:\Users\Jvros\OneDrive\Área de Trabalho\DIO\maquina_de_memes\pictures\screenshot_result.png">
+<h2>Link para acessar o site e fazer seu próprio meme: https://jvrossi10.github.io/maquina-de-memes-DIO/</h2>
 
