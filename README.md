@@ -50,7 +50,7 @@
 
 - Utilizando esses dois ```@mixin``` eu criei "funções" no css que ajudam bastante na hora de escrever e modificar o código. 
 
-<h1> </h1>
+##
 
 <h2>Link para acessar o site e fazer seu próprio meme: https://jvrossi10.github.io/maquina-de-memes-DIO/</h2>
 
